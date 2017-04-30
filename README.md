@@ -3,7 +3,7 @@
 ## Usage
 
 ```
-const WSCLINET = require('ws-reconnect-es6');
+const WSCLINET = require('ws-reconnect-js');
 var wsclient = new WSCLIENT("localhost:1010",{
 	retryCount:1, // default is 2
 	reconnectInterval: 1 // default is 5
