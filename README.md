@@ -1,4 +1,4 @@
-# ws-reconnect-es6: a Node.js WebSocket Client 
+# ws-reconnect-js: a Node.js WebSocket Client 
 
 ## Usage
 
