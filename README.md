@@ -1,4 +1,6 @@
 # ws-reconnect-js: a Node.js WebSocket Client 
+> This lib designed for web applications and compatible with webpack bundling. 
+
 
 ## Usage
 
